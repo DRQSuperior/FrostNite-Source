@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fortnite", "Fortnite\Fortnite.csproj", "{41C7140D-D846-4346-9608-2C5D5030EA2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41C7140D-D846-4346-9608-2C5D5030EA2A}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{41C7140D-D846-4346-9608-2C5D5030EA2A}.Debug|Any CPU.Build.0 = Debug|x64
+		{41C7140D-D846-4346-9608-2C5D5030EA2A}.Debug|Mixed Platforms.ActiveCfg = Debug|x64
+		{41C7140D-D846-4346-9608-2C5D5030EA2A}.Debug|Mixed Platforms.Build.0 = Debug|x64
+		{41C7140D-D846-4346-9608-2C5D5030EA2A}.Debug|x64.ActiveCfg = Debug|x64
+		{41C7140D-D846-4346-9608-2C5D5030EA2A}.Debug|x64.Build.0 = Debug|x64
+		{41C7140D-D846-4346-9608-2C5D5030EA2A}.Release|Any CPU.ActiveCfg = Release|x64
+		{41C7140D-D846-4346-9608-2C5D5030EA2A}.Release|Any CPU.Build.0 = Release|x64
+		{41C7140D-D846-4346-9608-2C5D5030EA2A}.Release|Mixed Platforms.ActiveCfg = Release|x64
+		{41C7140D-D846-4346-9608-2C5D5030EA2A}.Release|Mixed Platforms.Build.0 = Release|x64
+		{41C7140D-D846-4346-9608-2C5D5030EA2A}.Release|x64.ActiveCfg = Release|x64
+		{41C7140D-D846-4346-9608-2C5D5030EA2A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
