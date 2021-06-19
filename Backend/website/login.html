@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="index.css" media="screen" />
+    <script>
+        function url() {
+          var x = document.getElementById("account id").value;
+          window.open(`/panel?user=${x}`)
+        }
+        </script>
+    <style>
+        body {
+            color: #fff;
+            font-family: Rubik, sans-serif;
+            background: rgb(29, 36, 35);
+            background: linear-gradient(127deg, rgba(29, 36, 35) 80%, rgba(29, 36, 35) 88%);
+        }
+    </style>
+</head>
+<body style="padding: 170px;">
+    <div style="text-align: center; opacity: 0.7;  width: 100%; height: auto;">
+        <p style="font-family:'burbank'; font-size: 80px; text-shadow: 2px 2px #000000;">FrostNite
+        </p>
+        </p>
+    </div>
+    <div class="item button-100" style="--bg-color:#52, 57, 64; text-align: center;">
+        <br>
+        <br>
+        <br>
+        <br>
+        <input type="text" placeholder="account id" id="account id" class="form-container" name="account id" required>
+        <br>
+        <br>
+        <br>
+        <br>
+        <button class="btn btn-info" onclick="url()">Login
+        </button>
+        </div>
+    </div>
+
+</body>
+
+</html>
